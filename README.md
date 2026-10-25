@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Dynamic Waving Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Satyajeet%20Kumar%20Singh&fontSize=46&fontAlignY=38&desc=Enterprise%20Multi-Cloud%20Architect%20%7C%20Azure%20•%20AWS%20•%20GCP%20%7C%20Agentic%20AI%20%26%20MCP%20%7C%20DevSecOps&descFontSize=17&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Satyajeet Kumar Singh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Satyajeet%20Kumar%20Singh&fontSize=46&fontAlignY=38&desc=Enterprise%20Multi-Cloud%20Architect%20%7C%20Azure%20-%20AWS%20-%20GCP%20%7C%20Agentic%20AI%20and%20MCP%20%7C%20DevSecOps&descFontSize=17&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Satyajeet Kumar Singh Banner" />
 
   <!-- Dynamic Animated Typing SVG -->
   <a href="https://github.com/satyajeetkumarsing">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&lines=Enterprise+Multi-Cloud+Architect+(Azure+%E2%80%A2+AWS+%E2%80%A2+GCP);Pioneering+Agentic+AI+%26+Model+Context+Protocol+(MCP);Architecting+Zero-Trust+Landing+Zones+%26+Transit+Networks;Shift-Left+DevSecOps+Pipelines+(Checkov+%E2%80%A2+tfsec+%E2%80%A2+Trivy);Leading+100%2B+Mission-Critical+Enterprise+Cloud+Migrations;Strategic+FinOps+Leadership+%26+Cloud+Cost+Optimization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&lines=Enterprise+Multi-Cloud+Architect+(Azure+%E2%80%A2+AWS+%E2%80%A2+GCP);Pioneering+Autonomous+Agentic+AI+%26+MCP+Systems;Architecting+Zero-Trust+Landing+Zones+%26+Transit+Networks;Shift-Left+DevSecOps+Pipelines+(Checkov+%E2%80%A2+tfsec+%E2%80%A2+Trivy);Leading+100%2B+Mission-Critical+Enterprise+Cloud+Migrations;Strategic+FinOps+Leadership+%26+Cloud+Cost+Optimization" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -39,17 +39,47 @@
 
 ---
 
-## ⚡ Executive Summary & Professional Profile
+## 📑 Table of Contents
+1. [Executive Profile & Core Philosophy](#-executive-profile--core-philosophy)
+2. [The Senior Mindset: Business, Multi-Cloud & Architecture Alignment](#-the-senior-mindset-business-multi-cloud--architecture-alignment)
+3. [Featured Production Repositories](#-featured-production-repositories)
+4. [Enterprise Multi-Cloud Architecture & Landing Zones (CAF & Well-Architected)](#-enterprise-multi-cloud-architecture--landing-zones-caf--well-architected)
+5. [Autonomous Agentic AI & Model Context Protocol (MCP) Ecosystem](#-autonomous-agentic-ai--model-context-protocol-mcp-ecosystem)
+6. [Centralized Multi-Cloud Networking & Transit Architecture](#-centralized-multi-cloud-networking--transit-architecture)
+7. [4-Tier Zero-Trust Multi-Cloud Security Blueprint](#-4-tier-zero-trust-multi-cloud-security-blueprint)
+8. [Terraform Multi-Cloud Automation & IaC Governance](#-terraform-multi-cloud-automation--iac-governance)
+9. [Enterprise DevSecOps & CI/CD Delivery Engine](#-enterprise-devsecops--cicd-delivery-engine)
+10. [100+ Enterprise Application Cloud Migration Factory](#-100-enterprise-application-cloud-migration-factory)
+11. [Strategic FinOps & Multi-Cloud Cost Governance](#-strategic-finops--multi-cloud-cost-governance)
+12. [High Availability (HA), Multi-Region Resilience & Disaster Recovery (DR)](#-high-availability-ha-multi-region-resilience--disaster-recovery-dr)
+13. [Monitoring, Telemetry & Full-Stack Observability](#-monitoring-telemetry--full-stack-observability)
+14. [Strategic Technical Leadership, Vendor & Delivery Governance](#-strategic-technical-leadership-vendor--delivery-governance)
+15. [Core Technical Stack & Tooling Matrix](#-core-technical-stack--tooling-matrix)
 
-> **Enterprise Multi-Cloud Platform Architect | Multi-Cloud (Azure • AWS • GCP) | Autonomous Agentic AI & Model Context Protocol (MCP) | Zero-Trust DevSecOps | Cloud Adoption Framework (CAF & Well-Architected) | FinOps Leadership**
+---
 
-Operating at the vanguard of modern cloud engineering, I architect and govern resilient, enterprise-scale platforms across **Microsoft Azure**, **Amazon Web Services (AWS)**, and **Google Cloud Platform (GCP)**. I pioneer the integration of **Autonomous Agentic AI** and the **Model Context Protocol (MCP)** to transform cloud operations—connecting intelligent LLM reasoning cores with runtime infrastructure control planes for autonomous drift remediation, self-healing DevSecOps pipelines, and deterministic compliance.
+## 🧭 Executive Profile & Core Philosophy
 
-- ☁️ **Multi-Cloud Landing Zones:** Architected enterprise Landing Zones across Azure (CAF), AWS (Control Tower / Transit Gateway), and GCP (Cloud Foundation Fabric) serving Fortune-class enterprise workloads.
-- 🤖 **Agentic AI & Model Context Protocol (MCP):** Engineering production MCP servers and multi-agent systems using Anthropic Claude, OpenAI, and Gemini models for automated IaC generation, security triage, and autonomous drift healing.
-- 🚢 **100+ Enterprise Migrations:** Led end-to-end migration of **100+ mission-critical application workloads** across on-premises, hybrid, and multi-cloud environments with zero unplanned downtime.
-- 🛡️ **Zero-Trust DevSecOps:** Engineered shift-left pipeline engines embedding automated SAST, DAST, secret scanning (Gitleaks), container analysis (Trivy), and IaC compliance (Checkov, tfsec, TFLint).
-- 💰 **FinOps Governance:** Realized **28% - 35% annualized cloud compute savings** through right-sizing algorithms, commitment strategies (RI/Savings Plans), and automated waste elimination runbooks.
+Operating at the vanguard of modern cloud engineering, I architect, engineer, and govern resilient, enterprise-scale platforms across **Microsoft Azure**, **Amazon Web Services (AWS)**, and **Google Cloud Platform (GCP)**. I pioneer the integration of **Autonomous Agentic AI** and the **Model Context Protocol (MCP)** to revolutionize cloud operations—connecting intelligent LLM reasoning cores with runtime infrastructure control planes for autonomous drift remediation, self-healing DevSecOps pipelines, and deterministic compliance.
+
+```text
+       +--------------------------------------------------------------------------+
+       |                  MULTI-CLOUD ENTERPRISE PLATFORM FOUNDATION              |
+       +--------------------------------------------------------------------------+
+       |  Strategy & CAF  |  Zero-Trust Sec  |  IaC Automation  |  Agentic AI &   |
+       |  Landing Zones   |  4-Layer Defense |  Terraform / CI  |  MCP Tooling    |
+       +--------------------------------------------------------------------------+
+       |                               CORE GOALS                                 |
+       |  • 99.99% Availability   • Strict Least Privilege    • Continuous Drift  |
+       |  • Deterministic Scale   • Aggressive FinOps ROI     • Self-Healing Ops  |
+       +--------------------------------------------------------------------------+
+```
+
+### High-Level Architectural Guarantees:
+- **Multi-Cloud Portability & Resilience**: Unified infrastructure abstractions across Azure, AWS, and GCP ensuring vendor independence and eliminating platform lock-in.
+- **Continuous Compliance & Shift-Left Security**: Guardrails enforced by Policy-as-Code prior to commit and deployment, eliminating out-of-band configuration drift.
+- **FinOps by Design**: Every provisioned resource adheres to mandatory tagging schemas, auto-shutdown life cycles, and right-sized SKU tiers, yielding 28%-35% annualized cost reduction.
+- **Autonomous Reasoning & Remediation**: Leveraging Agentic AI and Model Context Protocol (MCP) to automate telemetry diagnosis, PR reviews, and drift remediation.
 
 ---
 
@@ -151,13 +181,9 @@ Operating at the vanguard of modern cloud engineering, I architect and govern re
 
 ---
 
-## 🏗️ Architectural Deep Dives & Enterprise Blueprints
+## 🏛️ Enterprise Multi-Cloud Architecture & Landing Zones (CAF & Well-Architected)
 
-<details open>
-<summary><b>1. Multi-Cloud Architecture: Azure Landing Zones (CAF), AWS Control Tower & GCP Foundation</b></summary>
-<br>
-
-Architected adhering to the **Microsoft Cloud Adoption Framework (CAF)**, the **AWS Well-Architected Framework**, and the **Google Cloud Foundation Fabric**:
+Built adhering strictly to the **Microsoft Cloud Adoption Framework (CAF)**, the **AWS Well-Architected Framework**, and the **Google Cloud Foundation Fabric**:
 
 ```text
                            [ Multi-Cloud Enterprise Estate ]
@@ -171,22 +197,33 @@ Architected adhering to the **Microsoft Cloud Adoption Framework (CAF)**, the **
 - Azure Firewall & Private Links - Transit Gateway & Inspection   - Cloud Armor & Private Connect
 ```
 
-- **Azure CAF Hierarchy:** Root Management Group -> Platform MG (`Identity`, `Management`, `Connectivity`) and Landing Zone MG (`Production`, `Non-Prod`, `Sandbox`).
-- **AWS Organizational Units:** Core OU (`Log Archive`, `Security Tooling`), Infrastructure OU (`Network Hub`), and Application Workload OUs (`Prod`, `Staging`).
-- **GCP Resource Tree:** Organization -> Top-Level Folders (`Core Services`, `Line of Business`) -> Shared VPC Host Projects and isolated Service Projects.
-- **Identity Federation:** Centralized authentication via Microsoft Entra ID federated across AWS IAM Identity Center and Google Cloud IAM via SAML 2.0 / SCIM.
-</details>
+### Tenant and Organizational Hierarchy
+- **Microsoft Azure CAF Hierarchy**:
+  - `Root Management Group`: Foundational security baselines applied across all subscriptions without exception.
+  - `Platform Management Group`:
+    - `Identity Subscription`: Dedicated hybrid Entra ID / AD domain controllers, Key Vaults, and Privileged Access Workstations (PAWs).
+    - `Management Subscription`: Central Log Analytics workspace, Azure Automation, Backup Vaults, and diagnostic ingestion engines.
+    - `Connectivity Subscription`: Hub virtual network, Azure Firewall Premium, ExpressRoute circuits, VPN Gateways, and Private DNS Resolvers.
+  - `Landing Zones (Workloads) Management Group`: Strict segregation of `Production` and `Non-Prod / UAT` subscriptions.
+- **AWS Organizational Hierarchy**:
+  - `Core Organizational Unit (OU)`: Central Log Archive account and Security Tooling account (Security Hub, GuardDuty, AWS Config).
+  - `Infrastructure OU`: Central Transit Gateway Hub VPC and Egress Inspection Network Firewall.
+  - `Workloads OU`: Isolated Production and Staging accounts with IAM Identity Center SSO federation.
+- **Google Cloud Resource Tree**:
+  - `Organization Node`: Global Organization Policy constraints (allowed locations, uniform bucket access).
+  - `Core Folder`: Host Projects hosting Shared VPCs and Cloud Interconnect gateways.
+  - `Workload Folders`: Dedicated service projects mapped to distinct business application domains.
 
-<details>
-<summary><b>2. Autonomous Agentic AI & Model Context Protocol (MCP) in Production DevOps</b></summary>
-<br>
+---
 
-Bridging intelligent LLM reasoning cores (Claude, GPT-4, Gemini) with runtime cloud infrastructure via the **Model Context Protocol (MCP)**:
+## 🤖 Autonomous Agentic AI & Model Context Protocol (MCP) Ecosystem
+
+In modern cloud platform engineering, static automation scripts are being superseded by **autonomous reasoning agents** connected to enterprise infrastructure through the **Model Context Protocol (MCP)**. This architecture bridges LLM decision-making with runtime cloud control planes.
 
 ```text
                                   +---------------------------------------+
-                                  |     Autonomous Multi-Agent Core       |
-                                  | (Planner • Architect • SecOps Agents) |
+                                  |     Frontier LLM Reasoning Engine     |
+                                  |  (Claude 3.5 Sonnet • GPT-4o • Gemini)|
                                   +-------------------+-------------------+
                                                       │
                                           Standard JSON-RPC 2.0
@@ -215,14 +252,16 @@ Bridging intelligent LLM reasoning cores (Claude, GPT-4, Gemini) with runtime cl
                                        +-------------------------------+
 ```
 
-- **Autonomous PR Review Agent:** Validates Terraform changes, verifies CIS compliance, runs Infracost, and annotates PR lines before engineer review.
-- **Continuous Drift Remediation Agent:** Ingests live cloud resource states, identifies out-of-band drifts, and automatically generates corrective HCL pull requests.
-- **Self-Healing Incident Triage:** Ingests production alerts (e.g., CrashLoopBackOff, Gateway Timeout), queries container logs via MCP, and triggers automated rollbacks or autoscaling actions.
-</details>
+### Custom MCP Server Tool Implementation Matrix
+- `inspect_tfplan(plan_json_path)`: Scans planned changes against enterprise CIS Azure/AWS benchmarks and identifies destructive actions (`delete`).
+- `detect_state_drift(resource_address, live_state, declared_state)`: Compares live cloud API state against declared Terraform state and generates corrective HCL.
+- `calculate_infracost(resource_changes)`: Calls cost engines to compute delta monthly expenditure before PR approval.
+- `triage_incident(service_name, log_sample)`: Diagnoses container and platform anomalies (OOMKilled, 504 Gateway Timeouts, TLS expiry) and prescribes self-healing mitigations.
+- `query_cloud_resources(cloud_provider, filter)`: High-performance multi-cloud discovery across Azure Resource Graph, AWS Explorer, and GCP Asset Inventory.
 
-<details>
-<summary><b>3. Global Multi-Cloud Networking & Transit Architecture</b></summary>
-<br>
+---
+
+## 🌐 Centralized Multi-Cloud Networking & Transit Architecture
 
 ```text
 +---------------------------------------------------------------------------------------------------+
@@ -244,26 +283,122 @@ Bridging intelligent LLM reasoning cores (Claude, GPT-4, Gemini) with runtime cl
 +---------------------------------------------------+ +---------------------------------------------+
 ```
 
-- **CIDR & IPAM Governance:** Strict non-overlapping CIDR allocation preventing IP collisions across Azure (`10.100.0.0/14`), AWS (`10.200.0.0/14`), GCP (`10.240.0.0/14`), and On-Premises datacenters (`172.16.0.0/12`).
-- **Forced Egress Inspection:** All internet-bound egress routed through centralized firewall appliances (Azure Firewall Premium / AWS Network Firewall) with deep TLS inspection and IDPS.
-- **Private Link Architecture:** Zero public IP exposure for databases and AI services; all managed platform services accessed strictly through Private Endpoints and VPC Endpoints.
-</details>
+### IPAM Governance & Non-Overlapping CIDR Blueprint
+- **Strict CIDR Allocation**: Meticulous discovery of enterprise on-premises subnets to guarantee zero collision across hybrid cloud interconnects.
+- **Hierarchical Addressing Matrix**:
+  - `Azure Hub Connectivity`: `10.100.0.0/20`
+  - `Azure Prod Spoke Network`: `10.110.0.0/16`
+  - `AWS Transit Hub & Inspection`: `10.200.0.0/16`
+  - `AWS Prod Workload VPC`: `10.210.0.0/16`
+  - `GCP Shared VPC Host`: `10.240.0.0/16`
+  - `On-Premises Corporate DC`: `172.16.0.0/12`
+- **Forced Egress & UDRs**: User Defined Routes (`0.0.0.0/0`) directing all spoke egress traffic to centralized firewall appliances for deep packet inspection and IDPS.
+- **Private Link Integration**: Azure Private Endpoints, AWS VPC Endpoints, and GCP Private Service Connect ensuring zero PaaS data travels over the public internet.
 
-<details>
-<summary><b>4. 4-Tier Zero-Trust Multi-Cloud Security Blueprint</b></summary>
-<br>
+---
+
+## 🛡️ 4-Tier Zero-Trust Multi-Cloud Security Blueprint
+
+```text
++---------------------------------------------------------------------------------------------+
+| 1. IDENTITY TIER      | Entra ID • PIM Just-In-Time • AWS IAM Identity Center • GCP IAM     |
++-----------------------+---------------------------------------------------------------------+
+| 2. NETWORK TIER       | Hub-Spoke Peering • Transit Gateway • UDR Forced Firewall • NSG/ASG |
++-----------------------+---------------------------------------------------------------------+
+| 3. GOVERNANCE TIER    | Azure Policy • AWS SCPs • GCP Org Policy • CIS Benchmarks • Checkov |
++-----------------------+---------------------------------------------------------------------+
+| 4. COMPUTE & DATA     | CIS Hardened Golden Images (Packer) • CMK Encryption • Defender/GCP |
++---------------------------------------------------------------------------------------------+
+```
+
+### Multi-Cloud Security Implementation Matrix:
 
 | Security Tier | Multi-Cloud Controls & Implementation Details |
 |:---|:---|
-| **Identity Level** | Zero permanent administrative privileges. Implementation of **Azure AD PIM**, **AWS IAM Identity Center (SSO)**, and **GCP Cloud Identity**. Elimination of hardcoded API keys in favor of Managed Identities, AWS IAM Roles for Service Accounts (IRSA), and GCP Workload Identity Federation. |
-| **Networking Level** | Micro-segmentation with Azure Network & Application Security Groups (NSG/ASG), AWS Security Groups & Network ACLs, and GCP Firewall Rules. Centralized stateful packet inspection and Web Application Firewall (WAF) protection. |
-| **Governance Level** | Policy-as-Code enforcement using Azure Policy, AWS Service Control Policies (SCPs), and GCP Organization Policy Service. Mandatory tag schemas (`Environment`, `CostCenter`, `Owner`, `DataClassification`) and CIS Benchmark compliance. |
-| **Compute & Data Level** | CIS Level 2 hardened OS images built via Packer. Customer-Managed Key (CMK) encryption at rest across Azure Key Vault, AWS KMS, and GCP Cloud KMS with automatic annual rotation. Container runtime vulnerability scanning via Defender for Cloud, AWS GuardDuty, and Trivy. |
-</details>
+| **Identity Level** | Zero permanent administrative privileges. Implementation of **Azure AD PIM**, **AWS IAM Identity Center (SSO)**, and **GCP Cloud Identity**. Elimination of static credentials in favor of Managed Identities, AWS IAM Roles for Service Accounts (IRSA), and GCP Workload Identity Federation. |
+| **Networking Level** | Segmented subnets using **Application Security Groups (ASGs)**, **Network Security Groups (NSGs)**, and AWS Security Groups enforcing micro-segmentation. Centralized egress traffic inspection via **Azure Firewall Premium** and **AWS Network Firewall** with TLS inspection. |
+| **Governance Level** | Automated Policy-as-Code enforcing mandatory tagging schemas (`Environment`, `CostCenter`, `Owner`, `DataClassification`), restricting permitted deployment regions, and blocking unencrypted storage assets. |
+| **Compute & Data Level** | CIS Level 2 hardened OS images built via automated Packer pipelines. Customer-Managed Key (CMK) encryption at rest across Azure Key Vault, AWS KMS, and GCP Cloud KMS with automatic annual key rotation. Runtime vulnerability scanning via Defender for Cloud, AWS GuardDuty, and Trivy. |
 
-<details>
-<summary><b>5. 100+ Enterprise Workload Migration Factory Model</b></summary>
-<br>
+---
+
+## 🧱 Terraform Multi-Cloud Automation & IaC Governance
+
+All infrastructure is provisioned strictly through declarative, modular Terraform adhering to enterprise standards.
+
+```text
+terraform-enterprise-modules/
+├── modules/
+│   ├── azure/
+│   │   ├── vnet-hub-spoke/          # Hub VNet, Subnets, GatewaySubnet, Firewall
+│   │   └── private-ai-service/      # Azure OpenAI, Private Endpoints, DNS Zones
+│   ├── aws/
+│   │   ├── vpc-transit-gateway/     # Multi-AZ VPC with TGW attachment
+│   │   └── secure-eks-cluster/      # Private EKS with KMS secret encryption
+│   └── gcp/
+│       └── shared-vpc/              # Shared VPC Host, subnets, Cloud NAT router
+├── environments/
+│   ├── production/                  # Root multi-cloud orchestrator
+│   └── non-production/              # Staging and sandbox environments
+└── pipelines/
+    └── devsecops-ci.yml             # Shift-left automated security gates
+```
+
+### IaC Engineering Best Practices:
+- **Remote State Security**: Remote state stored in private Azure Blob Storage / AWS S3 with state lease locking and Customer-Managed Key (CMK) encryption.
+- **Static Analysis & Linting Gates**:
+  - `tflint`: Enforces HCL syntax consistency and cloud provider attribute rules.
+  - `checkov` & `tfsec`: Comprehensive scanning for misconfigurations against 400+ CIS benchmark policies.
+  - `gitleaks`: Scans commits and git trees to prevent accidental secret or certificate leaks.
+  - `infracost`: Automatically computes the financial variance between current and proposed infrastructure states on Pull Requests.
+- **Continuous Drift Detection**: Daily scheduled pipelines execute `terraform plan -detailed-exitcode`. If drift is detected, alerts are dispatched to SRE teams and logged for automatic or manual reconciliation.
+
+---
+
+## ⚡ Enterprise DevSecOps & CI/CD Delivery Engine
+
+Robust CI/CD pipelines engineered for reliability, safety, and rapid rollbacks across **GitHub Actions** and **Azure DevOps**.
+
+```text
+[ Feature Branch ] ──> [ Pull Request ] ──> [ Automated Test & Scan ] ──> [ Mandatory Approvers ]
+                                                                                   │
+                                                    ┌──────────────────────────────┘
+                                                    ▼
+[ Merge to Main ] ──> [ Terraform Plan ] ──> [ Security & Cost Sign-off ] ──> [ Terraform Apply ]
+                                                                                   │
+                                                                   [ Automated Rollback on Fail ]
+```
+
+### Pipeline Lifecycle Specification:
+```yaml
+# Enterprise Multi-Cloud DevSecOps Pipeline Stages
+stages:
+  - stage: ValidateAndLint
+    jobs:
+      - job: TFLint_Checkov_Gitleaks
+        steps: [ "tflint --init", "gitleaks detect", "terraform fmt -check" ]
+  - stage: ComplianceAndCostEstimation
+    jobs:
+      - job: Checkov_Trivy_Infracost
+        steps: [ "checkov -d . --framework terraform", "trivy config .", "infracost diff" ]
+  - stage: ManualGovernanceGate
+    jobs:
+      - job: ArchitectApproval
+        steps: [ "verify security sign-off and FinOps variance" ]
+  - stage: ProductionApply
+    jobs:
+      - job: TerraformApply_WithRollbackHook
+        steps: [ "terraform apply -auto-approve tfplan", "trigger health probes" ]
+```
+
+- **Trunk-Based Branching**: Developers work on short-lived feature branches (`feature/*`, `fix/*`). Main branch is locked down with branch protection policies (mandatory 2 senior peer reviews, all status checks passing, squash and merge only).
+- **Automated Rollback & State Healing**: In the event of provisioning failures during deployment stages, automated rollback hooks restore previous state files and trigger notifications to on-call platform engineers.
+
+---
+
+## 🚢 100+ Enterprise Application Cloud Migration Factory
+
+A battle-tested methodology designed to execute the end-to-end migration of over 100 enterprise applications across Dev, UAT, and Production with minimal downtime.
 
 ```text
 +----------------------------------------------------------------------------------------------------+
@@ -276,24 +411,143 @@ Bridging intelligent LLM reasoning cores (Claude, GPT-4, Gemini) with runtime cl
 +-------------------+--------------------+-----------------------+-----------------------------------+
 ```
 
-- **6-Phase Factory Model:** Portfolio Discovery -> Sizing & 6-R Assessment -> Landing Zone Validation -> Wave Migrations -> Delta Sync & DNS Cutover -> 14-Day Hypercare.
-- **High Availability & Low RTO/RPO:** RTO < 30 mins and RPO < 5 mins for Tier-1 applications utilizing Azure Site Recovery (ASR), AWS Application Migration Service (MGN), and continuous asynchronous database replication.
-- **Rollback Guardrails:** Pre-tested rollback triggers within a 30-minute cutover window ensuring instant reversion if smoke tests detect performance degradation.
-</details>
+### Phase-by-Phase Execution Checklist:
 
-<details>
-<summary><b>6. FinOps & Strategic Multi-Cloud Cost Optimization</b></summary>
-<br>
+#### Phase 1: Pre-Migration & Discovery Checklist
+- [x] Application portfolio discovery (CPU, Memory, Storage IOPS, Network Throughput).
+- [x] Application classification based on the **6 R's** (Rehost, Replatform, Refactor, Rearchitect, Retain, Retire).
+- [x] Inter-application dependency mapping and database relationship graphing.
+- [x] Target cloud sizing calculation and network latency benchmarking between on-premises and cloud regions.
+- [x] Landing zone prerequisite verification: Spoke VNet created, peered to Hub, routing verified via UDR.
 
-- **Automated Waste Elimination:** Scheduled Lambda / Azure Runbooks purging unattached disks, orphaned IP addresses, empty load balancers, and expired snapshots.
-- **Commitment Portfolios:** Optimized blended portfolio of 1-year and 3-year Reserved Instances (RI), Azure Savings Plans, and AWS Savings Plans covering 80%+ of steady-state compute.
-- **Non-Production Scheduling:** Automated start/stop automation shutting down sandbox, dev, and UAT environments during off-hours, capturing up to 65% in non-prod compute savings.
-- **Pull Request Cost Guardrails:** Infracost embedded in CI/CD pipelines alerting engineers to monthly infrastructure cost changes prior to code merge.
-</details>
+#### Phase 2: During Cutover Execution Checklist
+- [x] Freeze all application data modification on the source on-premises environment.
+- [x] Execute delta synchronization of databases and file storage assets.
+- [x] Execute automated cutover runbook: provision target VMs/containers, mount storage, launch services.
+- [x] Execute automated smoke tests and health probe checks on application endpoints.
+- [x] Switch DNS routing (Private & Public) to target cloud endpoints with short TTLs.
+- [x] Maintain defined rollback checkpoints: if smoke tests fail within 30 minutes, revert DNS immediately.
+
+#### Phase 3: Post-Migration & Hypercare Checklist
+- [x] Comprehensive performance validation: CPU/Memory utilization, database latency, and API response metrics.
+- [x] Validate backup schedules, recovery vault associations, and replication health.
+- [x] Verify monitoring alert rule triggers and Log Analytics workspace log ingestion.
+- [x] 14-day dedicated Hypercare period with platform SRE presence and daily operational standups.
+- [x] Formal sign-off and transition to business-as-usual (BAU) operational teams.
 
 ---
 
-## 🛠️ Technology Stack & Multi-Cloud Matrix
+## 💰 Strategic FinOps & Multi-Cloud Cost Governance
+
+Maximizing cloud return on investment (ROI) through engineering rigor and automated cost optimization pipelines:
+
+```text
+                                    +------------------------------+
+                                    |     FinOps Governance Loop   |
+                                    +--------------+---------------+
+                                                   │
+                  ┌────────────────────────────────┼────────────────────────────────┐
+                  │                                │                                │
+                  ▼                                ▼                                ▼
+    +---------------------------+    +---------------------------+    +---------------------------+
+    |     Waste Elimination     |    |   Commitment Management   |    |    Architectural Sizing   |
+    | • Unattached Managed Disks|    | • Azure Reserved Instances|    | • Compute rightsizing     |
+    | • Orphaned Public IPs     |    | • 1-Year / 3-Year Plans   |    | • Log ingestion caps      |
+    | • Idle Load Balancers     |    | • AWS Savings Plans       |    | • Storage Tiering (Cool)  |
+    +---------------------------+    +---------------------------+    +---------------------------+
+```
+
+### Actionable FinOps Strategies:
+1. **Automated Resource Cleanups**:
+   - Automated scripts auditing and deleting unattached managed disks and orphaned network interfaces older than 7 days.
+   - Dynamic scheduled shutdown of development, sandbox, and UAT compute instances during off-peak hours (yielding up to 65% compute savings).
+2. **Right-Sizing & Commitment Optimization**:
+   - Utilization-based right-sizing analysis evaluating 95th percentile CPU and memory metrics over 30 days.
+   - Strategic acquisition of **Azure Reserved Instances (RI)**, **Azure Savings Plans**, and **AWS Savings Plans** for steady-state production workloads.
+3. **Log Analytics & Storage Optimization**:
+   - Throttling excessive diagnostic log ingestion, routing high-volume/low-value logs to Azure Data Explorer or Cold Blob storage.
+   - Implementing lifecycle management policies transitioning storage containers from Hot to Cool after 30 days, and Archive after 90 days.
+
+---
+
+## 🔄 High Availability (HA), Multi-Region Resilience & Disaster Recovery (DR)
+
+Architecting zero-downtime systems capable of withstanding regional outages:
+
+```text
+               [ Primary Region: Central India ]                     [ Secondary Region: South India ]
+     +-------------------------------------------------+   +-------------------------------------------------+
+     |  Virtual Machine Scale Set (VMSS) / EKS         |   |  Warm Standby / Disaster Recovery Target        |
+     |  • Zone 1 • Zone 2 • Zone 3                     |   |  • Pre-provisioned VNet & Landing Zone          |
+     |  • Multi-Cloud Load Balancer Probes             |   |  • Paired Region Replication                    |
+     +-------------------------------------------------+   +-------------------------------------------------+
+                             │                                                       ▲
+                             │ (Geo-Redundant Replication: GRS / Cross-Region)       │
+                             └───────────────────────────────────────────────────────┘
+```
+
+### Resilience & Continuity Matrix:
+
+| Capability | Architecture Specification |
+|:---|:---|
+| **Storage Redundancy** | **LRS** (Locally Redundant) for non-critical temp storage; **ZRS** (Zone-Redundant) for synchronous multi-zone high availability; **GRS** (Geo-Redundant) for asynchronous cross-region disaster recovery replication. |
+| **Compute Resilience** | Multi-zone **Virtual Machine Scale Sets (VMSS)** and EKS node groups with automated instance repair and dynamic horizontal scaling based on metric thresholds. |
+| **RTO (Recovery Time Objective)** | Target RTO < 30 minutes for mission-critical tier-1 services utilizing automated failover runbooks and warm standby infrastructure. |
+| **RPO (Recovery Point Objective)** | Target RPO < 5 minutes achieved through continuous asynchronous database replication and automated transactional snapshotting. |
+| **Pair Region Strategy** | Architecture aligned strictly to paired regions (e.g., East US / West US, Central India / South India) ensuring prioritized sequential platform updates during global maintenance. |
+
+---
+
+## 📈 Monitoring, Telemetry & Full-Stack Observability
+
+Transforming raw infrastructure metrics into actionable engineering intelligence across **Azure Monitor**, **AWS CloudWatch**, and **GCP Cloud Operations**:
+
+```text
++---------------------------------------------------------------------------------------------------+
+|                                  CENTRALIZED LOG ANALYTICS & TELEMETRY HUB                         |
++---------------------------------------------------------------------------------------------------+
+       ▲                                     ▲                                       ▲
+       │ Syslog / Metrics                    │ Kube-Audit / App Insights             │ Activity Logs
++---------------+                     +--------------------+                  +---------------------+
+| Multi-Cloud VMs|                    | K8s Microservices  |                  | Cloud Identity Logs |
++---------------+                     +--------------------+                  +---------------------+
+```
+
+- **Azure Monitor & CloudWatch Workbooks**: Custom interactive operational dashboards visualizing real-time health across all subscriptions and accounts (Compute, Network Throughput, Firewall drop rates, Ingress errors).
+- **Metric Alerts & Action Groups**: Multi-tier alert rules configured with dynamic thresholding, automatically routing high-severity incidents to on-call teams via Webhooks, PagerDuty, and Microsoft Teams.
+- **Log Analytics & KQL Expertise**: Deep proficiency in crafting optimized Kusto Query Language (KQL) queries for rapid root-cause analysis (RCA), anomaly detection, and security forensics.
+
+---
+
+## 🤝 Strategic Technical Leadership, Vendor & Delivery Governance
+
+Technical excellence combined with proven engineering management, vendor governance, and team leadership capabilities:
+
+```text
++---------------------------------------------------------------------------------------------------+
+|                                    DELIVERY GOVERNANCE ENGINE                                     |
++-----------------------+-------------------------+-------------------------+-----------------------+
+| Proposals & Bidding   | Vendor Management       | Transition & RACI       | Upskilling & Growth   |
+| • RFP / RFI Creation  | • SOW & Milestone Sign  | • RACI Matrix Framework | • Architecture KTs    |
+| • Technical Matrix    | • Technical Sprints     | • SOP Documentation     | • Tech Interviewing   |
+| • Commercial Costing  | • Least-Privilege Access| • Knowledge Handover    | • Mentorship Programs |
++-----------------------+-------------------------+-------------------------+-----------------------+
+```
+
+### Strategic Leadership Pillars:
+1. **RFP & RFI Evaluation**: Designing comprehensive Request for Proposal (RFP) documentation, technical evaluation scorecards, and commercial comparison models to evaluate third-party technology providers and systems integrators.
+2. **Statement of Work (SOW) & Vendor Accountability**:
+   - Formulating granular SOWs detailing deliverables, acceptance criteria, timeline dependencies, risk registers, and payment milestones.
+   - Enforcing weekly vendor review cadences, sprint retrospectives, and contract SLA/SLO verification before milestone sign-off.
+   - Implementing least-privilege administrative access controls for external vendors via temporary PIM assignments and auditing all privileged activity.
+3. **RACI Matrix & Service Ownership**: Establishing unequivocal accountability frameworks (Responsible, Accountable, Consulted, Informed) across engineering, DevOps, infrastructure, and security teams.
+4. **Team Upskilling & Knowledge Transfer (KT)**:
+   - Designing structured transition roadmaps, operational Standard Operating Procedures (SOPs), and architectural runbooks.
+   - Conducting intensive technical mentoring sessions, architecture design reviews (ADR), and leading senior technical interview panels to hire and grow top-tier engineering talent.
+
+---
+
+## 🛠️ Core Technical Stack & Tooling Matrix
 
 <table>
   <tr>
@@ -361,16 +615,6 @@ Bridging intelligent LLM reasoning cores (Claude, GPT-4, Gemini) with runtime cl
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics & Engineering Velocity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyajeetkumarsing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajeetkumarsing&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetkumarsing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
 
 ---
 
