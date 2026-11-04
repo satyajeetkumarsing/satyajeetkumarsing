@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Waving Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Satyajeet%20Kumar%20Singh&fontSize=46&fontAlignY=38&desc=DevSecOps%20%26%20Cloud%20DevOps%20Engineer%20%7C%20Azure%20-%20AWS%20-%20GCP%20%7C%20Agentic%20AI%20%26%20MCP%20%7C%20IaC&descFontSize=17&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Satyajeet Kumar Singh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Satyajeet%20Kumar%20Singh&fontSize=46&fontAlignY=38&desc=DevSecOps%20%26amp%3B%20DevOps%20Engineer%20%7C%20Azure%20-%20AWS%20-%20GCP%20%7C%20Agentic%20AI%20and%20MCP&descFontSize=17&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Satyajeet Kumar Singh Banner" />
 
   <!-- Dynamic Animated Typing SVG -->
   <a href="https://github.com/satyajeetkumarsing">
