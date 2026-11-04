@@ -1,18 +1,18 @@
 <div align="center">
 
   <!-- Dynamic Waving Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Satyajeet%20Kumar%20Singh&fontSize=46&fontAlignY=38&desc=Enterprise%20Multi-Cloud%20Architect%20%7C%20Azure%20-%20AWS%20-%20GCP%20%7C%20Agentic%20AI%20and%20MCP%20%7C%20DevSecOps&descFontSize=17&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Satyajeet Kumar Singh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Satyajeet%20Kumar%20Singh&fontSize=46&fontAlignY=38&desc=DevSecOps%20%26%20Cloud%20DevOps%20Engineer%20%7C%20Azure%20-%20AWS%20-%20GCP%20%7C%20Agentic%20AI%20%26%20MCP%20%7C%20IaC&descFontSize=17&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Satyajeet Kumar Singh Banner" />
 
   <!-- Dynamic Animated Typing SVG -->
   <a href="https://github.com/satyajeetkumarsing">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&lines=Enterprise+Multi-Cloud+Architect+(Azure+%E2%80%A2+AWS+%E2%80%A2+GCP);Pioneering+Autonomous+Agentic+AI+%26+MCP+Systems;Architecting+Zero-Trust+Landing+Zones+%26+Transit+Networks;Shift-Left+DevSecOps+Pipelines+(Checkov+%E2%80%A2+tfsec+%E2%80%A2+Trivy);Leading+100%2B+Mission-Critical+Enterprise+Cloud+Migrations;Strategic+FinOps+Leadership+%26+Cloud+Cost+Optimization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&lines=DevSecOps+%26+Cloud+DevOps+Engineer+(Azure+%E2%80%A2+AWS+%E2%80%A2+GCP);Pioneering+Autonomous+Agentic+AI+%26+MCP+Systems;Automating+Zero-Trust+Landing+Zones+%26+Transit+Networks;Shift-Left+DevSecOps+Pipelines+(Checkov+%E2%80%A2+tfsec+%E2%80%A2+Trivy);Multi-Cloud+IaC+Automation+with+Terraform+%26+CI%2FCD;Continuous+FinOps+Governance+%26+Cloud+Cost+Optimization" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=satyajeetkumarsing&style=flat-square&color=0089D6&label=Profile+Views" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Location-India-FF9933?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Status-Open_for_Strategic_Opportunities-success?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/Experience-Enterprise_%2F_Architect_Level-blue?style=flat-square&logo=azuredevops&logoColor=white" alt="Experience" />
+    <img src="https://img.shields.io/badge/Experience-3_Years_7_Months_(DevSecOps_%26_DevOps)-blue?style=flat-square&logo=azuredevops&logoColor=white" alt="Experience" />
   </p>
 
   <!-- Multi-Cloud & Core Specialization Badges -->
@@ -29,10 +29,11 @@
   </p>
 
   <p align="center">
+    <a href="https://www.linkedin.com/in/satyajeetkumarsingh/"><img src="https://img.shields.io/badge/LinkedIn-satyajeetkumarsingh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:satyajeetsingh656@gmail.com"><img src="https://img.shields.io/badge/Direct_Contact-satyajeetsingh656%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
     <a href="https://github.com/satyajeetkumarsing"><img src="https://img.shields.io/badge/GitHub_Portfolio-satyajeetkumarsing-181717?style=flat-square&logo=github" alt="GitHub"></a>
-    <img src="https://img.shields.io/badge/Role-Enterprise_Multi--Cloud_Architect-indigo?style=flat-square" alt="Role">
-    <img src="https://img.shields.io/badge/Focus-Autonomous_AI_&_Zero--Trust_Platforms-008080?style=flat-square" alt="Focus">
+    <img src="https://img.shields.io/badge/Role-DevSecOps_&_Cloud_DevOps_Engineer-indigo?style=flat-square" alt="Role">
+    <img src="https://img.shields.io/badge/Focus-Multi--Cloud,_CI%2FCD_&_Agentic_AI-008080?style=flat-square" alt="Focus">
   </p>
 
 </div>
@@ -41,7 +42,7 @@
 
 ## 📑 Table of Contents
 1. [Executive Profile & Core Philosophy](#-executive-profile--core-philosophy)
-2. [The Senior Mindset: Business, Multi-Cloud & Architecture Alignment](#-the-senior-mindset-business-multi-cloud--architecture-alignment)
+2. [The DevOps Mindset: Business, Multi-Cloud & Security Alignment](#-the-devops-mindset-business-multi-cloud--security-alignment)
 3. [Featured Production Repositories](#-featured-production-repositories)
 4. [Enterprise Multi-Cloud Architecture & Landing Zones (CAF & Well-Architected)](#-enterprise-multi-cloud-architecture--landing-zones-caf--well-architected)
 5. [Autonomous Agentic AI & Model Context Protocol (MCP) Ecosystem](#-autonomous-agentic-ai--model-context-protocol-mcp-ecosystem)
@@ -60,7 +61,7 @@
 
 ## 🧭 Executive Profile & Core Philosophy
 
-Operating at the vanguard of modern cloud engineering, I architect, engineer, and govern resilient, enterprise-scale platforms across **Microsoft Azure**, **Amazon Web Services (AWS)**, and **Google Cloud Platform (GCP)**. I pioneer the integration of **Autonomous Agentic AI** and the **Model Context Protocol (MCP)** to revolutionize cloud operations—connecting intelligent LLM reasoning cores with runtime infrastructure control planes for autonomous drift remediation, self-healing DevSecOps pipelines, and deterministic compliance.
+With **3 years and 7 months** of dedicated hands-on experience in cloud platform engineering and automation, I engineer, automate, and secure resilient platforms across **Microsoft Azure**, **Amazon Web Services (AWS)**, and **Google Cloud Platform (GCP)** as a **DevSecOps & Cloud DevOps Engineer**. I leverage **Autonomous Agentic AI** and the **Model Context Protocol (MCP)** to revolutionize modern DevOps operations—connecting intelligent LLM reasoning cores with runtime infrastructure control planes for autonomous drift remediation, self-healing DevSecOps pipelines, and deterministic compliance.
 
 ```text
        +--------------------------------------------------------------------------+
@@ -75,7 +76,7 @@ Operating at the vanguard of modern cloud engineering, I architect, engineer, an
        +--------------------------------------------------------------------------+
 ```
 
-### High-Level Architectural Guarantees:
+### High-Level Engineering Guarantees:
 - **Multi-Cloud Portability & Resilience**: Unified infrastructure abstractions across Azure, AWS, and GCP ensuring vendor independence and eliminating platform lock-in.
 - **Continuous Compliance & Shift-Left Security**: Guardrails enforced by Policy-as-Code prior to commit and deployment, eliminating out-of-band configuration drift.
 - **FinOps by Design**: Every provisioned resource adheres to mandatory tagging schemas, auto-shutdown life cycles, and right-sized SKU tiers, yielding 28%-35% annualized cost reduction.
@@ -83,20 +84,20 @@ Operating at the vanguard of modern cloud engineering, I architect, engineer, an
 
 ---
 
-## 🧠 The Senior Mindset: Business, Multi-Cloud & Architecture Alignment
+## 🧠 The DevOps Mindset: Business, Multi-Cloud & Security Alignment
 
 ```text
-                                [ The Senior Mindset ]
+                                [ The DevOps Mindset ]
                                            │
                      "What is the Business & Functional Domain?"
                                            │
          ┌─────────────────────────────────┴─────────────────────────────────┐
          │                                                                   │
-[ Multi-Cloud & Zero-Trust Architecture ]                  [ Delivery Governance & Leadership ]
+[ Multi-Cloud & Zero-Trust Engineering ]                   [ Delivery Governance & Team Ownership ]
 - Azure CAF, AWS Control Tower & GCP Foundation            - Commercial Costing, RFPs & Vendor Bidding
 - Zero-Trust Network Microsegmentation & Transit           - SOW Negotiation & Milestone Verification
 - Agentic AI & Model Context Protocol (MCP)                - RACI Matrix Enforcement & SLA Tracking
-- Multi-Region Disaster Recovery (RTO < 30m, RPO < 5m)     - Architectural Design Reviews (ADR) & Mentorship
+- Multi-Region Disaster Recovery (RTO < 30m, RPO < 5m)     - Engineering Design Reviews (EDR) & Mentorship
 ```
 
 ```text
@@ -383,7 +384,7 @@ stages:
         steps: [ "checkov -d . --framework terraform", "trivy config .", "infracost diff" ]
   - stage: ManualGovernanceGate
     jobs:
-      - job: ArchitectApproval
+      - job: DevSecOpsGateApproval
         steps: [ "verify security sign-off and FinOps variance" ]
   - stage: ProductionApply
     jobs:
@@ -472,7 +473,7 @@ Maximizing cloud return on investment (ROI) through engineering rigor and automa
 
 ## 🔄 High Availability (HA), Multi-Region Resilience & Disaster Recovery (DR)
 
-Architecting zero-downtime systems capable of withstanding regional outages:
+Engineering zero-downtime systems capable of withstanding regional outages:
 
 ```text
                [ Primary Region: Central India ]                     [ Secondary Region: South India ]
@@ -621,17 +622,17 @@ Technical excellence combined with proven engineering management, vendor governa
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/satyajeetkumarsing">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/satyajeetkumarsingh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:satyajeetsingh656@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/satyajeetkumarsing">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <i>"Architecture is not merely configuring infrastructure; it is engineering resilience, governance, and autonomous intelligence that accelerates enterprise velocity."</i>
+  <i>"DevSecOps is not just automating pipelines; it is engineering resilience, security guardrails, and autonomous systems that empower developers to ship with confidence and speed."</i>
 </p>
